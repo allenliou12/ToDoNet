@@ -1,0 +1,11 @@
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\bin\Debug\net9.0\TodoApp.Domain.deps.json
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\bin\Debug\net9.0\TodoApp.Domain.dll
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\bin\Debug\net9.0\TodoApp.Domain.pdb
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.AssemblyInfo.cs
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.dll
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\refint\TodoApp.Domain.dll
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.pdb
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\ref\TodoApp.Domain.dll
