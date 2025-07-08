@@ -9,3 +9,4 @@ C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\refint\TodoApp.Domain.dll
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.pdb
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\ref\TodoApp.Domain.dll
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Domain\obj\Debug\net9.0\TodoApp.Domain.sourcelink.json

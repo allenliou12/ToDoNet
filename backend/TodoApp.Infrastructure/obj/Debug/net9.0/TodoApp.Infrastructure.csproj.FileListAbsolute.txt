@@ -13,3 +13,4 @@ C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Infrastructure\obj\De
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Infrastructure\obj\Debug\net9.0\refint\TodoApp.Infrastructure.dll
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.pdb
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Infrastructure\obj\Debug\net9.0\ref\TodoApp.Infrastructure.dll
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Infrastructure\obj\Debug\net9.0\TodoApp.Infrastructure.sourcelink.json

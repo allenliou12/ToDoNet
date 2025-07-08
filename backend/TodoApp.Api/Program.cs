@@ -72,7 +72,7 @@ app.MapPut("/api/todos/{id}", async (int id, TodoItem item, TodoService service)
     try
     {
         await service.UpdateAsync(item);
-        return Results.NoContent();
+        return Results.Ok(item);
     }
     catch (Exception ex)
     {

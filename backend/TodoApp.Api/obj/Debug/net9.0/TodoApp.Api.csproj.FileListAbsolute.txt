@@ -38,3 +38,4 @@ C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Api\bin\Debug\net9.0\
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Api\obj\Debug\net9.0\TodoApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Allen\Desktop\Projects\.Net To-Do\backend\TodoApp.Api\obj\Debug\net9.0\TodoApp.Api.sourcelink.json
