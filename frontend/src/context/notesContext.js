@@ -1,7 +1,9 @@
+// A global state management
+
 import { createContext, useReducer, useContext } from "react";
 
 // Create and export a context to use as a global state
-export const NotesContext = createContext();
+export const NotesContext = createContext(); // A global store to hold all note-related data
 
 // Custom hook for using the Notes context
 export const useNotesContext = () => {

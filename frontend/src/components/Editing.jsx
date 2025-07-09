@@ -4,6 +4,10 @@ import Fab from '@mui/material/Fab';
 import { useState } from 'react';
 import { useNotesContext } from '../hooks/useNotesContext';
 
+
+// Handles the update of a Note
+// PUT
+
 const EditingNote = (props) => {
   const { dispatch } = useNotesContext();
 

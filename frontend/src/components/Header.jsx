@@ -9,6 +9,8 @@ import { useState } from 'react';
 import { useNotesContext } from '../context/notesContext';
 const color = yellow[800];
 
+// Basically the nav bar, + search box
+
 const theme = createTheme({
   palette: {
     primary: {

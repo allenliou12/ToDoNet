@@ -6,7 +6,6 @@ export const useNotesContext = () => {
     //useContext hook to access the Notes Context
     const context = useContext(NotesContext)
 
-    //if there are not context provided by the NotesContextProvider component, throw an error
     if (!context) {
         throw Error("UseNotesContext must be used inside a NotesContextProvider!")
     }

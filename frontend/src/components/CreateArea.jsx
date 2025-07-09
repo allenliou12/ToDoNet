@@ -7,6 +7,9 @@ import Zoom from '@mui/material/Zoom';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { yellow } from '@mui/material/colors';
 
+// Handles the adding new note part, what the different buttons on the new note do 
+// For the POST
+
 const color = yellow[800];
 
 const theme = createTheme({

@@ -8,7 +8,7 @@ namespace TodoApp.Application.Services;
 // The following codeblock is to like creates a class named TodoService, which handles the business workflow logic? According to GPT. From what I understand this files is for like constraints on what the methods can do? 
 
 // Defines the condition how the methods/operations can be used (These methods/operations are defined in teh ITodoRepo.cs files)
-// Can be amended later after business rules are identified, like Title cannot be empty etc. etc.
+// To be amended later after business rules are identified, like Title cannot be empty etc. etc.
 public class TodoService
 {
     private readonly ITodoRepository _repo;

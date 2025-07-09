@@ -7,6 +7,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { yellow } from '@mui/material/colors';
 import { useState } from 'react';
 
+
+// What a SINGLE Note will look like
 const color = yellow[800];
 
 const theme = createTheme({
@@ -27,13 +29,16 @@ function Note(props) {
     });
 
     if (response.ok) {
-      const json = await response.json();
-      dispatch({ type: 'DELETE_NOTE', payload: json });
-      console.log('Note deleted!', json);
+      dispatch({ type: 'DELETE_NOTE', payload: { id: props.id } });
+      console.log('Note deleted!');
     } else {
       console.error('Failed to delete note');
     }
   };
+  const formattedDate = new Date(props.createdAt).toLocaleString("en-MY", {
+    dateStyle: "medium",
+    timeStyle: "short"
+  });
 
   const handleEdit = () => setIsEditing(true);
   const handleClose = () => setIsEditing(false);
@@ -53,7 +58,7 @@ function Note(props) {
         <div className="note">
           <h1>{props.title}</h1>
           <p>{props.description}</p>
-          <p className="timestamp">{props.createdAt}</p>
+          <p className="timestamp">{formattedDate}</p>
 
           <Fab
             sx={{
